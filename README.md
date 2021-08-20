@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🎞 Check out [Gentoo minimal livecd from iPXE](https://github.com/NiKiZe/Gentoo-iPXE) if you like [Gentoo](https://gentoo.org) and/or [iPXE](https://ipxe.org)
+- ⚡ Also see [Gentoo Headless auto installer](https://github.com/ASoft-se/Gentoo-HAI)
+
 <!--
 **NiKiZe/NiKiZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
